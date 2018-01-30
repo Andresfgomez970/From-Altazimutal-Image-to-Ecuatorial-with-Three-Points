@@ -1,12 +1,22 @@
 # From-Altazimutal-Image-to-Ecuatorial-with-Three-Points
 
-The objective was at first: Create a program to reconstruct the observed movement of mercury in an equatorial mount from just 3 images taken in an alt-azimuth mount.
+The objective is the following: Create a program to reconstruct the observed movement of mercury in an equatorial mount from just 3 images taken in an alt-azimuth mount. 
 
 ## Getting Started
 
 A first sketch about the explanation of the project can be found in: 
 
 http://bit.ly/2FpRWBO
+
+At the moment the program take three images similar to this one: 
+
+![alt text](https://drive.google.com/file/d/1Uesb7PKmxf2iXTmEcB9sshvYgYPj_XoN/view?usp=sharing)
+
+
+
+1. Three images or ganized in the list ls 
+
+
 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
