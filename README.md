@@ -12,8 +12,12 @@ At the moment the program take three images similar to this one:
 
 ![alt text](Images/take1-06_40_59.png)
 
+with its respective times and then output a graph as the following to show what was the result obtained in a cirlce of radius 1:
 
-1. Three images or ganized in the list ls 
+![alt text](Images/Ejemplo1.png)
+
+
+
 
 
 
