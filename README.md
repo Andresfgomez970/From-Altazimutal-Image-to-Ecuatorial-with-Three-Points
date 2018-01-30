@@ -10,7 +10,7 @@ http://bit.ly/2FpRWBO
 
 At the moment the program take three images similar to this one: 
 
-![alt text](images/take1-06_40_59.png)
+![alt text](Images/take1-06_40_59.png)
 
 
 1. Three images or ganized in the list ls 
