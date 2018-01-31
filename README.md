@@ -41,7 +41,7 @@ To run it succesfully you could modify the folling parameters:
 
 ## Authors
 
-* **Andrés Felipe Gómez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Andrés Felipe Gómez** - *Initial work* -
 
 ## License
 
