@@ -51,5 +51,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to my team Juan Esteban Zuluaga, Luis Correa, Jose Alejandro Osorio, Alvaro Guerreo,and especially to Jorge Iván Zuluaga because for him this has been possible.
+* Thanks to my team Juan Esteban Zuluaga, Luis Correa, Jose Alejandro Osorio, Alvaro Guerreo, and especially to Jorge Iván Zuluaga because for him this has been possible.
 
