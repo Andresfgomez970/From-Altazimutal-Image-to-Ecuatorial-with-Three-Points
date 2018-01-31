@@ -18,12 +18,8 @@ with the respective times in which the photo was made and then output a graph as
 
 ### Prerequisites
 
-To run this program you only need to have installed the folowing libaries of python: 
-
--matplotlib.pyplot 
--matplotlib.cm
--scipy.misc
--numpy
+To run this program you only need to have installed the folowing libaries of python: matplotlib.pyplot, matplotlib.cm, scipy.misc
+and numpy.
 
 
 ## Running the the program
