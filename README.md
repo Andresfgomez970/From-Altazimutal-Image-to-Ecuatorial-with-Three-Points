@@ -12,95 +12,48 @@ At the moment the program take three images similar to this one:
 
 ![alt text](Images/take1-06_40_59.png)
 
-with its respective times and then output a graph as the following to show what was the result obtained in a cirlce of radius 1:
+with the respective times in which the photo was made and then output a graph as the following to show what was the result obtained in a cirlce of radius 1:
 
 ![alt text](Images/Ejemplo1.png)
 
-
-
-
-
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To run this program you only need to have installed the folowing libaries of python: 
 
-```
-Give examples
-```
+-matplotlib.pyplot 
+-matplotlib.cm
+-scipy.misc
+-numpy
 
-### Installing
 
-A step by step series of examples that tell you have to get a development env running
+## Running the the program
 
-Say what the step will be
+To run it succesfully you could modify the folling parameters: 
 
-```
-Give the example
-```
+1. The name of the images that are in the list "ls" inside "project.py"; this ones must be in the same directory than the file when you are going to run it. 
+2. t1 and t2 inside "project.py". Here, t1 is the time between the image ls[1] and ls[0], and t2 is the time between ls[2] and ls[1].
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://www.python.org/) 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Andrés Felipe Gómez** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## References
+
+* [Python](https://www.python.org/) 
+(1)[Operations with images in python] https://www.youtube.com/watch?v=ZByPsn4o7vs 
+(2)[Images used as input] Jubier, X. (2016). Mercury Transit Calculator - Xavier Jubier.Xjubier.free.fr. Retrieved 4 April 2016, from http://goo.gl/9q9yNd
+
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Thanks to my team Juan Esteban Zuluaga, Luis Correa, Jose Alejandro Osorio, Alvaro Guerreo,and especially to Jorge Iván Zuluaga because for him this has been possible.
 
