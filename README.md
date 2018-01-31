@@ -46,8 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## References
 
 * [Python](https://www.python.org/) 
-(1)[Operations with images in python] https://www.youtube.com/watch?v=ZByPsn4o7vs 
-(2)[Images used as input] Jubier, X. (2016). Mercury Transit Calculator - Xavier Jubier.Xjubier.free.fr. Retrieved 4 April 2016, from http://goo.gl/9q9yNd
+* [Operations with images in python] https://www.youtube.com/watch?v=ZByPsn4o7vs 
+* [Images used as input] Jubier, X. (2016). Mercury Transit Calculator - Xavier Jubier.Xjubier.free.fr. Retrieved 4 April 2016, from http://goo.gl/9q9yNd
 
 ## Acknowledgments
 
