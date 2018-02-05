@@ -1,6 +1,6 @@
 # From-Altazimutal-Image-to-Ecuatorial-with-Three-Points
 
-The objective: Create a program to reconstruct the observed movement of mercury in an equatorial mount from just 3 images taken in an alt-azimuth mount and its respective capture times. 
+The objective: Create a program to reconstruct the observed movement of mercury in an equatorial mount from just 3 images taken in an altazimuth mount with its respective capture times. 
 
 ## Getting Started
 
